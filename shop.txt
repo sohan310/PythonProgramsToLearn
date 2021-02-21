@@ -1,0 +1,8 @@
+rice,30
+oil,20
+soap,10
+wheat,40
+oats,55
+coke,10
+flour,80
+milk,50
